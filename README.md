@@ -27,8 +27,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Mys solution](https://your-solution-url.com)
-- Live Site URL: [Testimonials Grid Section](https://your-live-site-url.com)
+- Solution URL: [Mys solution](https://www.frontendmentor.io/solutions/testimonials-grid-section-Ze591Ks34v)
+- Live Site URL: [Testimonials Grid Section](https://br-testimonials-grid.netlify.app)
 
 ## My process
 
